@@ -2,7 +2,7 @@
   {
     "userId": 1,
     "id": 1,
-    "image": "https://cdn.shopify.com/s/files/1/0271/6883/3654/products/seraphim-gundam_1400x.jpg?v=1595390031",
+    "flickrImages": "https://cdn.shopify.com/s/files/1/0271/6883/3654/products/seraphim-gundam_1400x.jpg?v=1595390031",
     "name": "SERAPHIM GUNDAM",
     "series": "Mobile Suit Gundam 00",
     "grade": "HG, RG",
@@ -12,14 +12,14 @@
   {
     "userId": 1,
     "id": 2,
-    "image": "https://cdn.shopify.com/s/files/1/0271/6883/3654/products/seraphim-gundam_1400x.jpg?v=1595390031",
+    "flickrImages": "https://cdn.shopify.com/s/files/1/0271/6883/3654/products/seraphim-gundam_1400x.jpg?v=1595390031",
     "name": "GUNDAM KYRIOS",
     "series": "Mobile Suit Gundam 00",
     "grade": "HG, RG",
     "scale": "1/144"
   },
    {
-     "image": "https://cdn.shopify.com/s/files/1/0271/6883/3654/products/seraphim-gundam_1400x.jpg?v=1595390031",
+    "flickrImages": "https://cdn.shopify.com/s/files/1/0271/6883/3654/products/seraphim-gundam_1400x.jpg?v=1595390031",
     "userId": 1,
     "id": 3,
     "name": "GUNDAM EXIA",
