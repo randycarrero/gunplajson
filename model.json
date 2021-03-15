@@ -5,7 +5,8 @@
       "name":"SERAPHIM GUNDAM",
       "series":"Mobile Suit Gundam 00",
       "grade":"HG, RG",
-      "scale":"1/144"
+      "scale":"1/144",
+      "exclusive":"Not"
    },
    {
       "id":2,
@@ -13,7 +14,8 @@
       "name":"GUNDAM KYRIOS",
       "series":"Mobile Suit Gundam 00",
       "grade":"HG, RG",
-      "scale":"1/144"
+      "scale":"1/144",
+      "exclusive":"Not"
    },
    {
       "image":"https://raw.githubusercontent.com/randycarrero/gunplajson/main/Images/Gundam%2000/HG_00_Gundam_Exia_boxart.webp",
@@ -21,7 +23,8 @@
       "name":"GUNDAM EXIA",
       "series":"Mobile Suit Gundam 00",
       "grade":"HG, RG",
-      "scale":"1/144"
+      "scale":"1/144",
+      "exclusive":"Not"
    },
    {
       "image":"https://raw.githubusercontent.com/randycarrero/gunplajson/main/Images/Gundam%2000/hg00-over-flag.jpg",
@@ -29,7 +32,8 @@
       "name":"Over Flag",
       "series":"Mobile Suit Gundam 00",
       "grade":"HG, No/grade",
-      "scale":"1/144, 1/100"
+      "scale":"1/144, 1/100",
+      "exclusive":"Not"
    },
    {
       "image":"https://raw.githubusercontent.com/randycarrero/gunplajson/main/Images/Gundam%2000/hg00-cherudim-gundam-gnhw.jpg",
@@ -37,7 +41,8 @@
       "name":"Cherudim Gundam GNHW/R",
       "series":"Mobile Suit Gundam 00",
       "grade":"HG",
-      "scale":"1/144"
+      "scale":"1/144",
+      "exclusive":"Not"
    },
    {
       "image":"https://raw.githubusercontent.com/randycarrero/gunplajson/main/Images/Gundam%2000/hg00-cherudim-gundam-gnhw.jpg",
@@ -45,7 +50,8 @@
       "name":"Raphael Gundam",
       "series":"Mobile Suit Gundam 00",
       "grade":"HG",
-      "scale":"1/144"
+      "scale":"1/144",
+      "exclusive":"Not"
    },
    {
       "image":"https://raw.githubusercontent.com/randycarrero/gunplajson/main/Images/P-Bandai/N2537895001001_003.jpg",
