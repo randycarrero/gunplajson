@@ -61,5 +61,14 @@
       "grade":"MG",
       "scale":"1/100",
       "exclusive":"Premium Bandai"
+   },
+   {
+      "image":"",
+      "id":99998,
+      "name":"DICTUS (CALLISTO OF LIGHT CUSTOM)",
+      "series":"Mobile Suit Crossbone Gundam",
+      "grade":"HG",
+      "scale":"1/144",
+      "exclusive":"Premium Bandai"
    }
 ]
