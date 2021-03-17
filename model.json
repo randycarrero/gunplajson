@@ -70,5 +70,14 @@
       "grade":"HG",
       "scale":"1/144",
       "exclusive":"Premium Bandai"
+   },
+   {
+      "image":"https://raw.githubusercontent.com/randycarrero/gunplajson/main/Images/P-Bandai/Mk-%E2%85%A4.jpeg",
+      "id":99997,
+      "name":"GUNDAM Mk-Ⅴ",
+      "series":"Gundam Sentinel",
+      "grade":"MG",
+      "scale":"1/100",
+      "exclusive":"Premium Bandai"
    }
 ]
